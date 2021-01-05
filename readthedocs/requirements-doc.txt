@@ -1,3 +1,6 @@
 sphinx-copybutton
-sphinx-jsonschema
+sphinx-version-warning
 sphinx-click
+sphinx-jsonschema
+sphinxemoji
+click
